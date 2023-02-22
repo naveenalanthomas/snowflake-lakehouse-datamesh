@@ -6,7 +6,7 @@ By defenition, a Data Lake is a storage repository that should store infinite am
 
 Snowflake with its unique architecture of leveraging any cloud (AWS, GCS, Azure) blob storage as its STORAGE layer is a perfect fit for the definition. Adding more to it, Snowflake also encrypts all your data with AES-256 encryption at REST and also applies patented compression on the data ensuring you are paying lower cost of storage compared to the hyper-scalers.
 
-With its unmatched performance and near infinite scalability you can retrieve business value out of your data lake instantly making SNOWFLAKE A PERFECT LAKEHOUSE
+With its unmatched performance and near infinite scalability you can retrieve business value out of your data lake instantly. The latest inclusion of Snowpark and Snowpipe Streaming makes SNOWFLAKE A PERFECT LAKEHOUSE
 
 ![lakehouse](https://user-images.githubusercontent.com/99874664/220614659-92219f39-9836-4663-b02d-90f156d27ad4.jpeg)
 
